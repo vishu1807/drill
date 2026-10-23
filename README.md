@@ -33,8 +33,8 @@ The Checkout service has been deployed for over a year. The engineering team inh
 ## How to complete this assignment
 
 1. Create a feature branch called `feature/release-tagging`.
-2. Add the required deliverables: `TAG-AUDIT.md`, `VERSIONING.md`, `RELEASE-MAP.md`, `RELEASES.md`, and `TRACEABILITY.md`.
-3. Use annotated tags for production releases and document the policy.
+2. Add `TAG-AUDIT.md`, `VERSIONING.md`, `RELEASE-MAP.md`, and `RELEASES.md`. Include rollback traceability in `RELEASE-MAP.md` or a separate `TRACEABILITY.md`.
+3. Use annotated semantic-version tags for releases and document the policy.
 4. Open a GitHub pull request from `feature/release-tagging` into `main`.
 5. Record your audit findings during a short explainer video.
 
